@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/74s4c0eu5d6pib7c/branch/master?svg=true)](https://ci.appveyor.com/project/AntonDolmatov22388/hw-unit-5-patterns-1/branch/master)
